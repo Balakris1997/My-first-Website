@@ -14,5 +14,22 @@ header{
 
 .btn-style{
     border: 2px dashed greenyellow;
-    width: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.para{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-overflow:  ;
+    text-shadow: 5px;
+    text-orientation: ;
+    text-rendering: ;
+    font-size: larger;
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: expanded;
 }
